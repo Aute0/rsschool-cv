@@ -1,6 +1,6 @@
 <h1> Sofya Chernyaeva CV <h1>
 
-![foto](https://github.com/Aute0/rsschool-cv/blob/4d4c465b4f30fa2619a31dab141a644361303888/foto.jpg)
+![foto](https://github.com/Aute0/rsschool-cv/blob/gh-pages/foto.jpg)
 
 <h2> Position: <h2>
 <h3> Leading geophysicist in AARII <h3>
@@ -46,4 +46,12 @@ end
 subplot(2,1,1),plot(rx,k)
 subplot(2,1,2),plot(rx,x(end-200:end,:),'b.','markersize',2) 
 ```
+<hr>
+<h3> Languages:
+    
+    1. English - Advanced (b2)
+  ![Eng](https://github.com/Aute0/rsschool-cv/blob/gh-pages/Eng.png) 
+
+    2. Deutsch - Basic
+    3. Russian - Native
 <hr>
