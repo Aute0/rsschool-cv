@@ -1,16 +1,16 @@
 body 
 {font-family: 'Joan-Regular';
 
-}
+
 @font-face {
     font-family: 'Joan-Regular';
     src: url("assets/fonts/Joan-Regular.ttf");
-    font-weight: 100;
+    font-weight: 300;
   }
   @font-face {
     font-family: 'Joan-Regular';
     src: url("assets/fonts/Joan-Regular.ttf");
-    font-weight: 300;
+    font-weight: 600;
   }
   * {
     box-sizing: border-box;
@@ -27,3 +27,12 @@ body
   html {
     scroll-behavior: smooth; 
   }
+
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+}
