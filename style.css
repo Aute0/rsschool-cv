@@ -1,0 +1,29 @@
+body 
+{font-family: 'Joan-Regular';
+
+}
+@font-face {
+    font-family: 'Joan-Regular';
+    src: url("assets/fonts/Joan-Regular.ttf");
+    font-weight: 100;
+  }
+  @font-face {
+    font-family: 'Joan-Regular';
+    src: url("assets/fonts/Joan-Regular.ttf");
+    font-weight: 300;
+  }
+  * {
+    box-sizing: border-box;
+  }  
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }

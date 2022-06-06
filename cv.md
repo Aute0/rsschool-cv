@@ -12,9 +12,9 @@
     Telegram: @sonya21che
     discord: Sofya Chernyaeva (Aute0)
 <hr>
-<h3> About Myself: 
-    
-    Completed my postgraduate studies at St. Petersburg State University with a degree in Physics of Solar-Earth Relations. Engaged in scientific activities. Full cycle of satellite data preparation: search, download, cleaning, sorting and analysis. Has written several scientific articles in leading plasma physics journals. Mother of two litlle children. I am currently pursuing a degree in System and Business Analyst.
+  <h3> About Myself: 
+<h4>
+Completed my postgraduate studies at St. Petersburg State University with a degree in Physics of Solar-Earth Relations. Engaged in scientific activities. Full cycle of satellite data preparation: search, download, cleaning, sorting and analysis. Has written several scientific articles in leading plasma physics journals. Mother of two litlle children. I am currently pursuing a degree in System and Business Analyst.
 <hr>
 <h3> Skills: <h3>
 
